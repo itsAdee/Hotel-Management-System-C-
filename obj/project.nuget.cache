@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BGmX4RorHKSO9WFsXSlIvM5mghLsWGIKqTztXO1nP2JpGzqpecXSKUv4aHZfQtvaRJYS5V7dOCg/a0OCEosEA==",
+  "success": true,
+  "projectFilePath": "G:\\GitHub\\HotelGuestManagementSystem-CSharp\\Csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NN\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
